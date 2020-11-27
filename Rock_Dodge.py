@@ -5,7 +5,7 @@ from os import path
 
 WIDTH = 480
 HEIGHT = 600
-FPS = 60
+FPS = 65
 
 # define colors
 WHITE = (255, 255, 255)
